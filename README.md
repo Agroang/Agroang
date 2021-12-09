@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 I am originally from Chile but currently living in <strong>Japan</strong>⛩. I can speak Spanish, English, and Japanese (日本語能力試験二級)
 <hr>
 I am a full-stack web developer learning <strong>React</strong> (and increasing my <strong>JavaScript</strong> skills!)
-I am currently looking to work as a <strong>frontend web developer</strong> but also open to <strong>backend</strong>. <strong>Full-stack</strong> is also always welcomed but I want to keep getting better and better at my frontend skills.
+I am currently looking to work as a <strong>frontend web developer</strong> but also open to <strong>backend</strong>. <strong>Full-stack</strong> is also always welcomed but I want to keep getting better and better at my frontend skills. I have a strong communicational background so a technical <strong>PM</strong> position is also one of my interests🔥
 <hr>
