@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am originally from Chile but currently living in <strong>Japan</strong>⛩. I can speak Spanish, English, and Japanese (日本語能力試験二級)
-<img align="right" src="https://user-images.githubusercontent.com/79890025/145541256-065a75b0-840b-4615-aec0-b5272b9c4f72.gif" height="600">
+<img align="right" src="https://user-images.githubusercontent.com/79890025/145541256-065a75b0-840b-4615-aec0-b5272b9c4f72.gif" height="300">
 
 <hr>
 I am a full-stack web developer learning <strong>React</strong> (and increasing my <strong>JavaScript</strong> skills!)
