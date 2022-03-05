@@ -18,10 +18,10 @@ I am originally from Chile but currently living in <strong>Japan</strong>⛩. I 
 <img align="right" src="https://user-images.githubusercontent.com/79890025/145541256-065a75b0-840b-4615-aec0-b5272b9c4f72.gif" height="300">
 
 <hr>
-I am a full-stack web developer currently increasing my <strong>JavaScript</strong> skills! (and general Front-end skills)
-I am currently looking to work as a <strong>frontend web developer</strong> but also open to <strong>backend</strong>. <strong>Full-stack</strong> is also always welcomed but I want to keep getting better and better at my frontend skills. I have a strong communicational background so a technical <strong>PM</strong> position is also one of my interests🔥
+I am a full-stack web developer currently increasing my <strong>Ruby</strong> skills! (and general Front-end skills on free time)
+I am currently working as a <strong>software engineer</strong> but also plan to contribute to volunter/open source projects once I get used to my current position. Although I am currently focusing on increasing my Ruby skills (particularly unique language features), I want to keep getting better and better at my frontend skills as well. I have a strong communicational background so feel free to reach out!
 <hr>
-💻Currently learning more about: <strong>React.js, TypeScript, RSpec</strong>💾
+💻Currently learning more about: <strong>Ruby/RSpec, and on my personal time I also try to keep learning JavaScript/React.js</strong>💾
 <br>
 🌱Things that I plan to learn in the near future: <strong>Node.js</strong>, <strong>Python</strong>, and more👊
 <hr>
