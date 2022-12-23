@@ -21,9 +21,9 @@ I am originally from Chile but currently living in <strong>Japan</strong>⛩. I 
 I am a full-stack web developer currently increasing my <strong>Ruby</strong> skills! (and general Front-end skills on free time)
 I am currently working as a <strong>software engineer</strong> but also plan to contribute to volunter/open source projects once I get used to my current position. Although I am currently focusing on increasing my Ruby skills (particularly unique language features), I want to keep getting better and better at my frontend skills as well. I have a strong communicational background so feel free to reach out!
 <hr>
-💻Currently learning more about: <strong>Ruby/RSpec, and on my personal time I also try to keep learning JavaScript/React.js</strong>💾
+💻Currently learning more about: <strong>Ruby/RoR/Vue</strong>💾
 <br>
-🌱Things that I plan to learn in the near future: <strong>Node.js</strong>, <strong>Python</strong>, and more👊
+🌱Things that I plan to learn in the near future: <strong>Another language (probably Python)</strong>. I also want to learn more SQL
 <hr>
 You can find me here! 
 <a href="https://www.matiasau.me/" target="_blank">My Portfolio</a>
